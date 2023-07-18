@@ -14,9 +14,11 @@ I am a self-touched front-end developer with experience in JS/TS and proficiency
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
 </div>
 
+<br />
 
 | <a href="https://github.com/katia9261/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=katia9261&show_icons=true&include_all_commits=true&hide_border=true&hide=stars&show=reviews&theme=material-palenight&hide_rank=true" alt="Kate's github stats" /></a> | <a href="https://github.com/katia9261/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katia9261&layout=compact&theme=material-palenight&hide_border=true" /></a> |
 | ------------- | ------------- |
+
 
 <br />
 
